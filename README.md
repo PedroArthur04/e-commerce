@@ -16,4 +16,4 @@ As tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/PedroArthur04/e-commerce/blob/main/index.html)
+Você pode [acessar o código fonte do projeto inicial](https://github.com/PedroArthur04/e-commerce/blob/main/index.html) ou [acessar o deploy](https://e-commerce-tau-beige.vercel.app/)

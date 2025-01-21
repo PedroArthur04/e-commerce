@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>e-commerce</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>AutoPeShop</h1>
+    </header>
+
+    <div class="container">
+        <div class="form-container">
+            <input type="text" id="productName" placeholder="Nome do produto" />
+            <input type="text" id="productPrice" placeholder="Preço do produto" />
+            <input type="text" id="productImage" placeholder="URL da imagem do produto" />
+            <button onclick="addProduct()">Adicionar Produto</button>
+        </div>
+
+        <div class="product-grid" id="productGrid">
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 AutoPeShop. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
